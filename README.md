@@ -1,5 +1,5 @@
 # Data-Cleaning-Challenge
-## This is a Data Cleaning Challenge organized by [https://twitter.com/PromiseNonso_](Promise Nonso) and [https://twitter.com/vicSomadina](Victor Somadina).
+## This is a Data Cleaning Challenge organized by [Promise Nonso](https://twitter.com/PromiseNonso_) and [Victor Somadina](https://twitter.com/vicSomadina).
 
 
-FIFA dataset was used, which was obtained from [https://sofifa.com/](FIFA)
+FIFA dataset was used, which was obtained from [FIFA](https://sofifa.com/)
