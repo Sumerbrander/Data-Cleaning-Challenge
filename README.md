@@ -16,7 +16,7 @@
 - The actual process of data cleansing may involve removing typographical errors or validating and correcting values against a known list of entities. The validation may be strict (such as rejecting any address that does not have a valid postal code), or with fuzzy or approximate string matching (such as correcting records that partially match existing, known records). Some data cleansing solutions will clean data by cross-checking with a validated data set. A common data cleansing practice is data enhancement, where data is made more complete by adding related information. For example, appending addresses with any phone numbers related to that address. Data cleansing may also involve harmonization (or normalization) of data, which is the process of bringing together data of "varying file formats, naming conventions, and columns", and transforming it into one cohesive data set; a simple example is the expansion of abbreviations ("st, rd, etc." to "street, road, etcetera").
 ---
 ### About the dataset
-- The raw dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring/code) via web scrapping from sofifa.com which can also be access here [fifa21_raw_data_v2](https://github.com/toheebolamilekn/fifa21_data_cleaning_challenge/blob/main/fifa21_raw_data_v2.csv). It consists of all information concerning football players such as player names, age, clubs, nationality, wages, positions, performance ratings, height & weight etc. The raw dataset before cleaning consists of 18979 rows and 76 columns. The cleaned dataset set consists of 18979 rows and 72 columns.
+- The raw dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring/code) via web scrapping from sofifa.com which can also be access here [fifa_data](https://github.com/Sumerbrander/Data-Cleaning-Challenge/blob/main/fifa_data.csv). It consists of all information concerning football players such as player names, age, clubs, nationality, wages, positions, performance ratings, height & weight etc. The raw dataset before cleaning consists of 18979 rows and 76 columns. The cleaned dataset set consists of 18979 rows and 72 columns.
 #### Note: python rows and columns counting start from zero (0) not one (1).
 ---
 ### Objectives
@@ -31,4 +31,4 @@
  4. Remove unnecessary characters as well as irrelevant column.
 ---
 ### Process
-- The step by step process were perfectly explained together with the cleaning process in Python Jupiter Notebook which can be found uploaded above named [FIFA '21 Messy Raw Dataset Cleaning Challenge]
+- The step by step process were perfectly explained together with the cleaning process in Python Jupiter Notebook which can be found uploaded above named [FIFA  Dataset Cleaning Challenge]
